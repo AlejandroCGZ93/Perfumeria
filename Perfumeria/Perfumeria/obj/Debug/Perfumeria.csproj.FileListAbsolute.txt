@@ -1,0 +1,7 @@
+C:\Users\Alejandro\source\repos\Perfumeria\Perfumeria\bin\Debug\Perfumeria.exe.config
+C:\Users\Alejandro\source\repos\Perfumeria\Perfumeria\bin\Debug\Perfumeria.exe
+C:\Users\Alejandro\source\repos\Perfumeria\Perfumeria\bin\Debug\Perfumeria.pdb
+C:\Users\Alejandro\source\repos\Perfumeria\Perfumeria\obj\Debug\Perfumeria.csprojAssemblyReference.cache
+C:\Users\Alejandro\source\repos\Perfumeria\Perfumeria\obj\Debug\Perfumeria.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\source\repos\Perfumeria\Perfumeria\obj\Debug\Perfumeria.exe
+C:\Users\Alejandro\source\repos\Perfumeria\Perfumeria\obj\Debug\Perfumeria.pdb
